@@ -1,3 +1,21 @@
-body {
-  
+header {
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid black;
+  font-family: Verdana;
+  font-weight: bold;
+  font size: 14px;
+  height: 80px;
+  width: 100%;
+}
+.logo {
+  color: MediumAquamarine;
+
+}
+nav span{
+
+  display: inline-block;
+  padding: 20px 10px;
+  align-items: center;
+
 }
