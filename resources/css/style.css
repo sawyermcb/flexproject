@@ -58,14 +58,19 @@ a {
   border: 1px solid blue;
 }
 .fishpic {
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-main.png);
   border: 1px solid black;
 }
 .section1 {
   border: 1px solid green;
 }
 .earthspin {
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-2.png);
   border: 1px solid black;
 }
 .section2 {
   border: 1px solid black;
+}
+.cameras {
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-3.png);
 }
